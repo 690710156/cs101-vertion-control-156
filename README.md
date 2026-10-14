@@ -19,3 +19,4 @@
 - Problem solving
 - Python basics
 - Teamwork
+- Social
