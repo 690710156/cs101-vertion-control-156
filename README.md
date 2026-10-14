@@ -5,3 +5,8 @@
 ## About Me
 - Name: Thotsaphon Fongjan
 - Major: Computer Science
+
+## My Learning Goals
+- Learn Python programmimg
+- Learn Git and Github
+- Build a personal website
